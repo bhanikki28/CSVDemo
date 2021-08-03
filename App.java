@@ -28,7 +28,7 @@ public class App {
 	
 	catch(Exception e)
 	{
-		logger.info("Exception in processing the file: "+e.getMessage());
+		logger.info("Exception in processing thee file: "+e.getMessage());
 	}
   }
 }
